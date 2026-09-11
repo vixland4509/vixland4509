@@ -10,4 +10,4 @@ Backend & systems developer based in Iran. Working with **Python** and **Go**, f
 
 ---
 
-[Website](https://solarinai.org) • [Telegram](https://t.me/vix_land) • nightlandcompany@proton.me
+[Website](https://me.kouroxsh.ir) • [Telegram](https://t.me/vix_land) • nightlandcompany@proton.me
