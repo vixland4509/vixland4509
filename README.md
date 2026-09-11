@@ -1,16 +1,13 @@
-## Hi there 👋
+### Kourosh
 
-<!--
-**vixland4509/vixland4509** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend & systems developer based in Iran. Working with **Python** and **Go**, focusing on concurrency, low-latency networking, and scalable services.
 
-Here are some ideas to get you started:
+- **SolarinAI** — Multi-path AI gateway with automatic failover and SSE streaming.
+- **Terrat** — Fast, lightweight X11 terminal emulator written in Go.
+- Currently exploring Go concurrency patterns, transport protocols, and cache optimization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Python` `Go` `Java` `FastAPI` `React` `Linux` `Git`
+
+---
+
+[Website](https://solarinai.org) • [Telegram](https://t.me/vix_land) • nightlandcompany@proton.me
