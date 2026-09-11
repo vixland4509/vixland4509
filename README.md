@@ -1,3 +1,8 @@
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=61AFEF&width=450&lines=Software+Developer+%26+Backend;Python+%7C+Go+%7C+Distributed+Systems;Building+fast%2C+low-latency+tools" alt="Typing SVG" />
+  </a>
+</p>
 ### Kourosh
 
 Backend & systems developer based in Iran. Working with **Python** and **Go**, focusing on concurrency, low-latency networking, and scalable services.
